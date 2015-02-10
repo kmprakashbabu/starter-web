@@ -14,3 +14,6 @@
      This is a Deployment section
 
 ## How to Contribute
+
+## Copyright
+           Git training 2015
