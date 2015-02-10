@@ -5,6 +5,8 @@
 
 ## Purpose
 
+    Purpose of the page is to try out various Git commands with this sample project
+
 ## Deployment
 
 ## How to Contribute
