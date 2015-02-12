@@ -2,6 +2,7 @@
 
      This is a git starter web project. 
 	 But it is very useful to learn as you do . Awesome.
+	 Adding more changes from myfeature branch too
 
 ## Introduction
      This is a simple website project for showing how to use Git and Git hub together
