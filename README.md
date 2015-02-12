@@ -14,6 +14,7 @@
      This is a Deployment section
 
 ## How to Contribute
+     PLease fork this repository and issue pull request
 
 ## Copyright
            Git training 2015
