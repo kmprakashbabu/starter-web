@@ -1,6 +1,7 @@
 # Starter Web Project
 
-     This is a git starter web project
+     This is a git starter web project. 
+	 But it is very useful to learn as you do . Awesome.
 
 ## Introduction
      This is a simple website project for showing how to use Git and Git hub together
