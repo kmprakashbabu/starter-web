@@ -5,7 +5,8 @@
 	 Adding more changes from myfeature branch too
 
 ## Introduction
-     This is a simple website project for showing how to use Git and Git hub together
+     This is a simple website project for showing how to use Git and Git hub together.
+	 Adding more introduction for this page
 
 ## Purpose
 
