@@ -19,4 +19,4 @@
      PLease fork this repository and issue pull request
 
 ## Copyright
-           Git training 2015
+           Git training 2015, All rights reserved
